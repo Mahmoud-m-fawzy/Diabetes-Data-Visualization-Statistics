@@ -51,10 +51,13 @@
 - **Python** (NumPy, Pandas, Matplotlib, Seaborn, SciPy)  
 - **Jupyter Notebook**  
 
----
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mahmoud-m-fawzy/diabetes-data-visualization-statistics.git
+   cd diabetes-data-visualization-statistics
 
 ## 👨‍💻 Author
 Developed by **Mahmoud**  
 GitHub: [Mahmoud-m-fawzy](https://github.com/Mahmoud-m-fawzy)
-   git clone https://github.com/Mahmoud-m-fawzy/diabetes-data-visualization-statistics.git
-   cd diabetes-data-visualization-statistics
+
